@@ -12,6 +12,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <hr>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=J0kk3&layout=compact&theme=dracula)
 <!--
 **J0kk3/J0kk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
