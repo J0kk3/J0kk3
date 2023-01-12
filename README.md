@@ -18,7 +18,7 @@
 </div>
 <hr>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=J0kk3&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J0kk3&layout=compact&theme=dracula)
 <!--
 **J0kk3/J0kk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
